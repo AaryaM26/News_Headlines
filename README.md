@@ -1,2 +1,2 @@
 # News_Headlines
-Top 10 news headlines using news API 
+Top 10 news headlines using news API in Python
